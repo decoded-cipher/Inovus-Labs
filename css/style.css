@@ -196,10 +196,11 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 .intro .overlay {
 	background: rgba(0,0,0,0.2);
 }
+
 .intro h1 {
 	font-family: 'Raleway', sans-serif;
 	color: #fff;
-	font-size: 82px;
+	font-size: 7rem;
 	font-weight: 700;
 	text-transform: uppercase;
 	margin-top: 0;
@@ -218,7 +219,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	margin-bottom: 60px;
 }
 header .intro-text {
-	padding-top: 350px;
+	padding-top: 320px;
 	padding-bottom: 200px;
 	text-align: center;
 }
