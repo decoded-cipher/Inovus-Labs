@@ -585,3 +585,22 @@ color: #777;
 	margin: 50px 0;
 }
 }
+
+
+.nav-tabs {
+	border: none;
+}
+
+.nav-tabs > li > a {
+	border: none;
+	
+}
+
+.nav-tabs > li.active > a {
+	border: none;
+}
+
+.nav-tabs > li.active > a:hover {
+	border: none;
+	background-color: none;
+}
