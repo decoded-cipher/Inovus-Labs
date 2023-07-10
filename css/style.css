@@ -437,6 +437,9 @@ header .intro-text {
 	background: transparent;
 	border: 0;
 }
+#team .img-circle {
+	border: 1px solid #ddd;
+}
 #team .thumbnail .caption {
 	padding: 10px 0 0 0;
 	color: #888;
