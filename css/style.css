@@ -355,6 +355,9 @@ header .intro-text {
 	opacity: 0;
 	transition: all 0.5s;
 }
+.team{
+
+}
 .hover-bg .hover-text>h4 {
 	opacity: 0;
 	color: #fff;
