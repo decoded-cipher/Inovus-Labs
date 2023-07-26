@@ -16,6 +16,6 @@
   "author": "Decoded_Cipher",
   "license": "ISC",
   "dependencies": {
-    "firebase-tools": "^8.0.2"
+    "firebase-tools": "^12.4.3"
   }
 }
