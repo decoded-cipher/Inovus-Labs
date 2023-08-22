@@ -7,6 +7,12 @@ body, html {
 	width: 100% !important;
 	height: 100% !important;
 }
+/* blog link */
+.blog:hover{
+	border-color: #1f386e;
+	border:3px;
+	
+}
 
 /* custom scrollbar */
 ::-webkit-scrollbar{
