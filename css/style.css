@@ -7,6 +7,12 @@ body, html {
 	width: 100% !important;
 	height: 100% !important;
 }
+/* blog link */
+.blog:hover{
+	border-color: #1f386e;
+	border:3px;
+	
+}
 
 /* custom scrollbar */
 ::-webkit-scrollbar{
@@ -368,6 +374,9 @@ header .intro-text {
 	opacity: 0;
 	transition: all 0.5s;
 }
+.team{
+
+}
 .hover-bg .hover-text>h4 {
 	opacity: 0;
 	color: #fff;
@@ -446,6 +455,9 @@ header .intro-text {
 #team .thumbnail {
 	background: transparent;
 	border: 0;
+}
+#team .img-circle {
+	border: 1px solid #ddd;
 }
 #team .thumbnail .caption {
 	padding: 10px 0 0 0;
